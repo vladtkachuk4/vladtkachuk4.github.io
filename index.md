@@ -7,6 +7,7 @@ title: Home
     display: flex;
     align-items: stretch;
     margin-bottom: 2rem;
+    min-height: 250px;
   }
   .profile-image {
     width: 250px;
@@ -19,44 +20,52 @@ title: Home
     flex: 1;
     display: flex;
     flex-direction: column;
-  }
-  .contact-info-wrapper {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
   }
   .contact-info {
-    /* Add any specific styles for contact info here */
+    margin-bottom: 2.8rem; /* Add space between contact info and quote */
   }
   .quote-container {
-    margin-top: auto;
-    padding-top: 1rem;
-  }
-  .quote {
     font-style: italic;
     color: #555;
+  }
+  .quote-text {
     display: inline;
     position: relative;
   }
-  .quote:before, .quote:after {
-    font-size: 2rem;
-    vertical-align: middle;
-  }
-  .quote:before {
+  .quote-text:before {
     content: '"';
-    margin-right: 0.25rem;
+    font-size: 1.5em;
+    line-height: 0;
+    vertical-align: -0.25em;
   }
-  .quote:after {
+  .quote-text:after {
     content: '"';
-    margin-left: 0.25rem;
+    font-size: 1.5em;
+    line-height: 0;
+    vertical-align: -0.25em;
   }
   .quote-author {
     display: inline-block;
-    vertical-align: middle;
-    margin-left: 1rem;
+    margin-left: 0.5rem;
     font-weight: bold;
-    color: #555;
+  }
+
+  /* Media query for mobile devices */
+  @media (max-width: 767px) {
+    .profile-container {
+      flex-direction: column;
+      align-items: center;
+    }
+    .profile-image {
+      width: 200px;
+      height: 200px;
+      margin-right: 0;
+      margin-bottom: 1rem;
+    }
+    .info-quote-container {
+      text-align: center;
+    }
   }
 </style>
 
