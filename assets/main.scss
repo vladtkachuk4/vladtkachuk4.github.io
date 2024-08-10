@@ -1,0 +1,37 @@
+---
+---
+
+@import "minima";
+
+// Your custom styles go here
+
+// Increase the content width
+$content-width: 960px;
+
+.wrapper {
+  max-width: $content-width;
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+}
+
+// Additional styles for consistency
+body {
+    font-size: 16px;
+    line-height: 1.4;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+  }
+  
+  a {
+    color: #2a7ae2;
+    text-decoration: none;
+  
+    &:hover {
+      text-decoration: underline;
+    }
+  }

@@ -1,5 +1,19 @@
 title: Volodymyr (Vlad) Tkachuk 
 description: My personal website 
-theme: minima # You can choose a different Jekyll theme if you prefer
-sass:
-  sass_dir: assets/css
+
+# Build settings
+theme: minima
+
+# Minima specific settings
+minima:
+  date_format: "%b %-d, %Y"
+
+# Plugins
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+header_pages:
+  - research.md
+  - teaching.md
+  - life.md

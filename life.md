@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Life
+permalink: /life/
 ---
 
 <div class="container">
