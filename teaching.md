@@ -13,7 +13,7 @@ permalink: /teaching/
     <div class="course">
       <div class="course-title-line">
         <span class="course-title">Basics of Machine Learning - CMPUT 267 (Fall 2024)</span>
-        <span class="course-link">[<a href="#">Website</a>]</span>
+        <span class="course-link">[<a href="https://vtkachuk4.github.io/mlbasics/">Website</a>]</span>
       </div>
     </div>
   </div>
