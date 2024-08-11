@@ -2,72 +2,10 @@
 layout: default
 title: Home
 ---
-<style>
-  .profile-container {
-    display: flex;
-    align-items: stretch;
-    margin-bottom: 2rem;
-    min-height: 250px;
-  }
-  .profile-image {
-    width: 250px;
-    height: 250px;
-    object-fit: cover;
-    border-radius: 50%;
-    margin-right: 2rem;
-  }
-  .info-quote-container {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-  }
-  .contact-info {
-    margin-bottom: 2.8rem; /* Add space between contact info and quote */
-  }
-  .quote-container {
-    font-style: italic;
-    color: #555;
-  }
-  .quote-text {
-    display: inline;
-    position: relative;
-  }
-  .quote-text:before {
-    content: '"';
-    font-size: 1.5em;
-    line-height: 0;
-    vertical-align: -0.25em;
-  }
-  .quote-text:after {
-    content: '"';
-    font-size: 1.5em;
-    line-height: 0;
-    vertical-align: -0.25em;
-  }
-  .quote-author {
-    display: inline-block;
-    margin-left: 0.5rem;
-    font-weight: bold;
-  }
 
-  /* Media query for mobile devices */
-  @media (max-width: 767px) {
-    .profile-container {
-      flex-direction: column;
-      align-items: center;
-    }
-    .profile-image {
-      width: 250px;
-      height: 250px;
-      margin-right: 0;
-      margin-bottom: 1rem;
-    }
-    .info-quote-container {
-      text-align: center;
-    }
-  }
-</style>
+
+<link rel="stylesheet" href="{{ '/assets/css/index-styles.css' | relative_url }}">
+
 
 <div class="profile-container">
   <img src="/assets/images/headshot.jpg" alt="Vlad Tkachuk" class="profile-image">
