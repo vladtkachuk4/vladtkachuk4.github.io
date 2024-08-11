@@ -1,0 +1,41 @@
+---
+---
+
+// teaching-styles.scss
+.teaching-section {
+  margin-bottom: 2rem;
+}
+
+.role-section {
+  margin-bottom: 2rem;
+  h2 {
+    color: #444;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.2rem;
+    margin-bottom: 1.0rem;
+  }
+}
+
+.course {
+  margin-bottom: 1.0rem;
+  &-title-line {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 0.2rem;
+  }
+  &-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+    margin-right: 0.5rem;
+  }
+  &-link {
+    font-size: 0.9rem;
+    a {
+      color: #2a7ae2;  
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}

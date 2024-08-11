@@ -6,6 +6,7 @@ permalink: /research/
 
 <link rel="stylesheet" href="{{ '/assets/css/research-styles.css' | relative_url }}">
 
+
 <div class="research-section">
   <h2>Preprints / Under Submission</h2>
 
@@ -27,7 +28,7 @@ permalink: /research/
 
   <div class="paper">
     <div class="paper-title">On Efficient Planning in Large Action Spaces with Applications to Cooperative Multi-Agent Reinforcement Learning</div>
-    <div class="paper-authors"><u>Volodymyr Tkachuk</u> (MSc Thesis)</div>
+    <div class="paper-authors"><u>Volodymyr Tkachuk</u> (MSc Thesis 2023)</div>
     <div class="paper-link"><a href="https://era.library.ualberta.ca/items/5daa0e66-9a56-425b-9bc1-20dae6ed127d">Paper</a></div>
   </div>
 
