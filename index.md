@@ -2,8 +2,6 @@
 layout: default
 title: Home
 ---
-
-
 <link rel="stylesheet" href="{{ '/assets/css/index-styles.css' | relative_url }}">
 
 
@@ -25,10 +23,12 @@ title: Home
       </div>
     </div>
     <div class="quote-container">
-      <span class="quote">There is no substitute for hard work</span>
+      <span class="quote-text">There is no substitute for hard work</span>
       <span class="quote-author">- Thomas Edison</span>
     </div>
   </div>
 </div>
+<h2>About</h2>
 <p>I am a first-year PhD student in Computing Science at the <a href="https://www.ualberta.ca/">University of Alberta</a>, working under the supervision of <a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a> and <a href="https://xiaoqitan.org/">Xiaoqi Tan</a>. I completed my master's degree at the University of Alberta, also under the supervision of Csaba Szepesvári. Before that, I obtained my bachelor's in Electrical Engineering from the University of Waterloo.</p> 
+<h2>Research Interests</h2>
 <p>My research interests lie primarily in reinforcement learning theory (for now).</p>

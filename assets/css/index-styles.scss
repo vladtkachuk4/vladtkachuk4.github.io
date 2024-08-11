@@ -2,6 +2,14 @@
 ---
 
 // index-styles.scss
+
+h2 {
+    color: #444;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.2rem;
+    margin-bottom: 1.0rem;
+}
+
 .profile-container {
   display: flex;
   align-items: stretch;
