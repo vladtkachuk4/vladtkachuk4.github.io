@@ -12,7 +12,7 @@ permalink: /teaching/
     <h2>Instructor</h2>
     <div class="course">
       <div class="course-title-line">
-        <span class="course-title">Basics of Machine Learning - CMPUT 267 (Fall 2024)</span>
+        <span class="course-title">Machine Learning I - CMPUT 267 (Fall 2024)</span>
         <span class="course-link">[<a href="https://vladtkachuk4.github.io/mlbasics/">Website</a>]</span>
       </div>
     </div>
