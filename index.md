@@ -13,7 +13,7 @@ title: Home
         <p>PhD Student<br>
           Department of Computing Science <br>
           University of Alberta</p>
-        <p>Email: vtkachuk at ualberta dot ca<br>
+        <p>Email: vtkachuk@ualberta.ca<br>
           <a href="https://scholar.google.com/citations?user=9sSwAAsAAAAJ&hl=en">Scholar</a> |
           <a href="/assets/files/cv_volodymyr_tkachuk.pdf">CV</a> |
           <a href="https://www.linkedin.com/in/vtkachuk4/">LinkedIn</a> |
@@ -29,6 +29,6 @@ title: Home
   </div>
 </div>
 <h2>About</h2>
-<p>I am a first-year PhD student in Computing Science at the <a href="https://www.ualberta.ca/">University of Alberta</a>, working under the supervision of <a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a> and <a href="https://xiaoqitan.org/">Xiaoqi Tan</a>. I completed my master's degree at the University of Alberta, also under the supervision of Csaba Szepesvári. Before that, I obtained my bachelor's in Electrical Engineering from the University of Waterloo.</p> 
+<p>I am a second-year PhD student in Computing Science at the <a href="https://www.ualberta.ca/">University of Alberta</a>, working under the supervision of <a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a> and <a href="https://xiaoqitan.org/">Xiaoqi Tan</a>. I completed my master's degree at the University of Alberta, also under the supervision of Csaba Szepesvári. Before that, I obtained my bachelor's in Electrical Engineering from the University of Waterloo.</p> 
 <h2>Research Interests</h2>
 <p>My research interests lie primarily in reinforcement learning theory (for now).</p>
