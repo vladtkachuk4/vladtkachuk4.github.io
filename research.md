@@ -7,18 +7,19 @@ permalink: /research/
 <link rel="stylesheet" href="{{ '/assets/css/research-styles.css' | relative_url }}">
 
 
-<div class="research-section">
+<!-- <div class="research-section">
   <h2>Preprints / Under Submission</h2>
+
+</div> -->
+
+<div class="research-section">
+  <h2>Publications</h2>
 
   <div class="paper">
     <div class="paper-title">Trajectory Data Suffices for Statistically Efficient Learning in Offline RL with $q^\pi$ Realizability and Concentrability</div>
     <div class="paper-authors"><u>Volodymyr Tkachuk</u>, Gellért Weisz, Csaba Szepesvári (NeurIPS 2024)</div>
-    <div class="paper-link"><a href="https://arxiv.org/abs/2405.16809#">Paper</a> (Under submission) | <a href="https://www.youtube.com/watch?v=N4PuxhjAbKI&list=PLv_4EzuTPftpm0954fGfURbcOFc_fqzqo">Talk</a></div>
+    <div class="paper-link"><a href="https://arxiv.org/abs/2405.16809#">Paper</a> | <a href="https://www.youtube.com/watch?v=N4PuxhjAbKI&list=PLv_4EzuTPftpm0954fGfURbcOFc_fqzqo">Talk</a></div>
   </div>
-</div>
-
-<div class="research-section">
-  <h2>Publications</h2>
 
   <div class="paper">
     <div class="paper-title">Regret Minimization via Saddle Point Optimization</div>
