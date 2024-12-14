@@ -51,3 +51,45 @@ permalink: /life/
     </div>
   </div>
 </div>
+
+<div class="life-section">
+  <h2>My Favorite Books</h2>
+  <p>When I started university in 2015, I gradually developed an interest in reading.
+  Some books have profoundly changed the way I think, others have evoked emotional responses I never thought possible by a piece of text, while some have just been really fun to read.
+  I also believe the books a person enjoys reveal a lot about who they are.
+  With that in mind, here’s a glimpse at some of my favorites—perhaps some of these books will resonate with you as deeply as they did with me.</p>
+  <div class="book-list">
+    <ul>
+      <li>
+        <a href="https://www.goodreads.com/book/show/61535.The_Selfish_Gene" target="_blank">The Selfish Gene</a> by Richard Dawkins
+      </li>
+      <li>
+        <a href="https://www.goodreads.com/book/show/62050269-a-brief-history-of-intelligence?ref=nav_sb_ss_1_30" target="_blank">A Brief History of Intelligence</a> by Max Bennet
+      </li>
+      <li>
+        <a href="https://www.goodreads.com/book/show/227463.A_Clockwork_Orange" target="_blank">A Clockwork Orange</a> by Anthony Burgess
+      </li>
+      <li>
+        <a href="https://www.goodreads.com/book/show/9547888-attached?from_search=true&from_srp=true&qid=QJKvOgJVeY&rank=1" target="_blank">Attached</a> by Amir Levine and Rachel Heller
+      </li>
+      <li>
+        <a href="https://www.goodreads.com/book/show/10256723-ghost-in-the-wires" target="_blank">Ghost in the Wires</a> by Kevin Mitnick
+      </li>
+      <li>
+        <a href="https://www.goodreads.com/book/show/23692271-sapiens" target="_blank">Sapiens: A Brief History of Humankind</a> by Yuval Noah Harari
+      </li>
+      <li>
+        <a href="https://www.goodreads.com/book/show/34466963-why-we-sleep" target="_blank">Why We Sleep</a> by Matthew Walker
+      </li>
+      <li>
+        <a href="https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People" target="_blank">How to Win Friends and Influence People</a> by Dale Carnegie
+      </li>
+            <li>
+        <a href="https://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain" target="_blank">Phantoms in the Brain</a> by V.S. Ramachandran
+      </li>
+      <li>
+        <a href="https://www.goodreads.com/book/show/35167685-surely-you-re-joking-mr-feynman" target="_blank">Surely You're Joking, Mr. Feynman!</a> by Richard P. Feynman
+      </li>
+    </ul>
+  </div>
+</div>
