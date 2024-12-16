@@ -73,6 +73,9 @@ permalink: /life/
         <a href="https://www.goodreads.com/book/show/9547888-attached?from_search=true&from_srp=true&qid=QJKvOgJVeY&rank=1" target="_blank">Attached</a> by Amir Levine and Rachel Heller
       </li>
       <li>
+        <a href="https://www.goodreads.com/book/show/6493321-logicomix" target="_blank">Logicomix: An Epic Search for Truth</a> by Apostolos Doxiadis
+      </li>
+      <li>
         <a href="https://www.goodreads.com/book/show/10256723-ghost-in-the-wires" target="_blank">Ghost in the Wires</a> by Kevin Mitnick
       </li>
       <li>
