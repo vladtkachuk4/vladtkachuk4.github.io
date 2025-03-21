@@ -88,9 +88,12 @@ permalink: /life/
         <a href="https://www.goodreads.com/book/show/34466963-why-we-sleep" target="_blank">Why We Sleep</a> by Matthew Walker
       </li>
       <li>
+        <a href="https://www.goodreads.com/book/show/13589182-mastery" target="_blank">Mastery</a> by Robert Greene 
+      </li>
+      <li>
         <a href="https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People" target="_blank">How to Win Friends and Influence People</a> by Dale Carnegie
       </li>
-            <li>
+      <li>
         <a href="https://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain" target="_blank">Phantoms in the Brain</a> by V.S. Ramachandran
       </li>
       <li>
