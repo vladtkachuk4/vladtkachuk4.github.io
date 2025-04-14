@@ -18,7 +18,7 @@ permalink: /research/
   <div class="paper">
     <div class="paper-title">Trajectory Data Suffices for Statistically Efficient Learning in Offline RL with $q^\pi$ Realizability and Concentrability</div>
     <div class="paper-authors"><u>Volodymyr Tkachuk</u>, Gellért Weisz, Csaba Szepesvári (NeurIPS 2024)</div>
-    <div class="paper-link"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/97aa3f6600add4b521e1f2ae297653ad-Paper-Conference.pdf">Paper</a> | <a href="https://www.youtube.com/watch?v=N4PuxhjAbKI&list=PLv_4EzuTPftpm0954fGfURbcOFc_fqzqo">Talk</a></div>
+    <div class="paper-link"><a href="https://proceedings.neurips.cc/paper_files/paper/2024/file/97aa3f6600add4b521e1f2ae297653ad-Paper-Conference.pdf">Paper</a> | Talks: <a href="https://www.youtube.com/watch?v=N4PuxhjAbKI&list=PLv_4EzuTPftpm0954fGfURbcOFc_fqzqo">High-level</a>, <a href="https://www.youtube.com/watch?v=yj5oLsaAhHQ&ab_channel=RLtheoryseminars">Technical</a></div>
   </div>
 
   <div class="paper">
