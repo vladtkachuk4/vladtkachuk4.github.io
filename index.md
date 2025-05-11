@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 <link rel="stylesheet" href="{{ '/assets/css/index-styles.css' | relative_url }}">
-
-
 <div class="profile-container">
   <img src="/assets/images/headshot.jpg" alt="Vlad Tkachuk" class="profile-image">
   <div class="info-quote-container">
@@ -23,12 +21,18 @@ title: Home
       </div>
     </div>
     <div class="quote-container">
-      <span class="quote-text">There is no substitute for hard work</span>
-      <span class="quote-author">- Thomas Edison</span>
+      <div class="quote">
+        <div class="quote-text">"There is no substitute for hard work"</div>
+        <div class="quote-author">- Thomas Edison</div>
+      </div>
+      <div class="quote">
+        <div class="quote-text">"Let no one say that taking action is hard... the hardest thing in the world is making a decision"</div>
+        <div class="quote-author">- Franz Grillparzer</div>
+      </div>
     </div>
   </div>
 </div>
 <h2>About</h2>
 <p>I am a second-year PhD student in Computing Science at the <a href="https://www.ualberta.ca/">University of Alberta</a>, working under the supervision of <a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a> and <a href="https://xiaoqitan.org/">Xiaoqi Tan</a>. I completed my master's degree at the University of Alberta, also under the supervision of Csaba Szepesvári. Before that, I obtained my bachelor's in Electrical Engineering from the University of Waterloo.</p> 
 <h2>Research Interests</h2>
-<p>My research interests lie primarily in reinforcement learning theory (for now).</p>
+<p>I am currently interested in reinforcement learning theory, specifically in the offline setting and in the representational power of transformers, specifically at inference time.</p>

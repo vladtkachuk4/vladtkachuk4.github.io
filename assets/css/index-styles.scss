@@ -1,15 +1,12 @@
 ---
 ---
-
 // index-styles.scss
-
 h2 {
     color: #444;
     border-bottom: 2px solid #ddd;
     padding-bottom: 0.2rem;
     margin-bottom: 1.0rem;
 }
-
 .profile-container {
   display: flex;
   align-items: stretch;
@@ -30,34 +27,28 @@ h2 {
   justify-content: flex-end;
 }
 .contact-info {
-  margin-bottom: 3.0rem; /* Add space between contact info and quote */
+  margin-bottom: 1.2rem; /* Add space between contact info and quote */
 }
 .quote-container {
   font-style: italic;
   color: #555;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem; /* Increased gap between quotes */
+}
+.quote {
+  display: block;
 }
 .quote-text {
-  display: inline;
-  position: relative;
+  display: block;
+  margin-bottom: -0.1rem; /* Space between quote and author */
 }
-.quote-text:before {
-  content: '"';
-  font-size: 1.5em;
-  line-height: 0;
-  vertical-align: -0.25em;
-}
-.quote-text:after {
-  content: '"';
-  font-size: 1.5em;
-  line-height: 0;
-  vertical-align: -0.25em;
-}
+/* Remove the custom quote marks since they're in the HTML already */
 .quote-author {
-  display: inline-block;
-  margin-left: 0.5rem;
+  display: block;
+  text-align: right;
   font-weight: bold;
 }
-
 /* Media query for mobile devices */
 @media (max-width: 767px) {
   .profile-container {
@@ -72,5 +63,8 @@ h2 {
   }
   .info-quote-container {
     text-align: center;
+  }
+  .quote-author {
+    text-align: center; /* Center-align the author on mobile */
   }
 }
