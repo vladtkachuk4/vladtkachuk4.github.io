@@ -12,14 +12,26 @@ permalink: /teaching/
     <h2>Instructor</h2>
     <div class="course">
       <div class="course-title-line">
-        <span class="course-title">Machine Learning I - CMPUT 267 (Fall 2024)</span>
+        <span class="course-title">Machine Learning I - CMPUT 267 (Fall 2025)</span>
         <span class="course-link">[<a href="https://vladtkachuk4.github.io/machinelearning1/">Website</a>]</span>
+      </div>
+    </div>
+    <div class="course">
+      <div class="course-title-line">
+        <span class="course-title">Machine Learning I - CMPUT 267 (Fall 2024)</span>
+        <span class="course-link">[<a href="https://vladtkachuk4.github.io/machinelearning1/schedule_fall2024.html">Website</a>]</span>
       </div>
     </div>
   </div>
 
   <div class="role-section">
     <h2>Teaching Assistant</h2>
+    <div class="course">
+      <div class="course-title-line">
+        <span class="course-title">Machine Learning I - CMPUT 267 (Winter 2025)</span>
+        <span class="course-link">[<a href="https://vladtkachuk4.github.io/machinelearning1/schedule_winter2025.html">Website</a>]</span>
+      </div>
+    </div>
     <div class="course">
       <div class="course-title-line">
         <span class="course-title">Basics of Machine Learning - CMPUT 267 (Winter 2024)</span>
