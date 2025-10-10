@@ -9,7 +9,7 @@ permalink: /life/
 
 <div class="life-section">
   <h2>About My Life</h2>
-  <p>I love playing almost every sport! My favorite sports constantly fluctuate, but currently I've been doing these the most: tennis, volleyball, hockey, and running.</p>
+  <p>I love playing almost every sport! My favorite sports constantly fluctuate, but currently I've been doing these the most: running, mountain biking, climbing and badminton.</p>
   <p>I also have some non-academic YouTube channels where I post some of my most memorable activities.</p>
 </div>
 
