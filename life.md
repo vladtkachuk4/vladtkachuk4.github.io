@@ -61,6 +61,9 @@ permalink: /life/
   <div class="book-list">
     <ul>
       <li>
+        <a href="https://www.goodreads.com/book/show/16181775-the-rosie-project" target="_blank">The Rosie Project</a> by Graeme Simsion
+      </li>
+      <li>
         <a href="https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others?ac=1&from_search=true&qid=W2SISNhGFs&rank=1" target="_blank">Stories of your life and Others</a> by Ted Chiang (In particular, the stories: "Like What You See: A Documentary" and "Evolution of Human Science") 
       </li>
       <li>
