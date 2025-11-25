@@ -18,7 +18,9 @@ permalink: /research/
   <div class="paper">
     <div class="paper-title">Trajectory Data Suffices for Statistically Efficient Policy Evaluation in Finite-Horizon Offline RL with Linear $q^\pi$ Realizability and Concentrability</div>
     <div class="paper-authors"><u>Volodymyr Tkachuk</u>, Csaba Szepesvári, Xiaoqi Tan (Preprint 2025)</div>
-    <div class="paper-link"><a href="https://arxiv.org/abs/2510.03494">Paper</a></div>
+    <div class="paper-link"><a href="https://arxiv.org/abs/2510.03494">Paper</a>
+      | Talks: <a href="https://www.youtube.com/watch?v=2yKTpuEs3zY">High-level</a></div>
+
   </div>
 
   <div class="paper">
