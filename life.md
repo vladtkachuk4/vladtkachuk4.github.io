@@ -9,7 +9,7 @@ permalink: /life/
 
 <div class="life-section">
   <h2>About My Life</h2>
-  <p>I love playing almost every sport! My favorite sports constantly fluctuate, but currently I've been doing these the most: running, mountain biking, climbing and badminton.</p>
+  <p>I love playing almost every sport! My favorite sports constantly fluctuate, but currently I've been obsessed with running (if that counts as a sport).</p>
   <p>I also have some non-academic YouTube channels where I post some of my most memorable activities.</p>
 </div>
 
@@ -24,7 +24,7 @@ permalink: /life/
       </a>
     </div>
     <div class="video-container">
-      <iframe src="https://www.youtube-nocookie.com/embed/3Pc2MlWPfhQ" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe src="https://www.youtube-nocookie.com/embed/RiqIivrEM0g" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     </div>
   </div>
   
