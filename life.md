@@ -67,6 +67,9 @@ permalink: /life/
         <a href="https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others?ac=1&from_search=true&qid=W2SISNhGFs&rank=1" target="_blank">Stories of your life and Others</a> by Ted Chiang (In particular, the stories: "Like What You See: A Documentary" and "Evolution of Human Science") 
       </li>
       <li>
+        <a href="https://www.goodreads.com/book/show/49552.The_Stranger" target="_blank">The Stranger</a> by Albert Camus
+      </li>
+      <li>
         <a href="https://www.goodreads.com/book/show/61535.The_Selfish_Gene" target="_blank">The Selfish Gene</a> by Richard Dawkins
       </li>
       <li>
