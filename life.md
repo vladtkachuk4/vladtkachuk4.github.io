@@ -61,6 +61,9 @@ permalink: /life/
   <div class="book-list">
     <ul>
       <li>
+        <a href="https://www.goodreads.com/book/show/98250.Once_a_Runner" target="_blank">Once a Runner</a> by John L. Parker Jr. 
+      </li>
+      <li>
         <a href="https://www.goodreads.com/book/show/16181775-the-rosie-project" target="_blank">The Rosie Project</a> by Graeme Simsion
       </li>
       <li>
