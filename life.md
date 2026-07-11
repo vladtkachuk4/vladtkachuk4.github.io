@@ -61,6 +61,9 @@ permalink: /life/
   <div class="book-list">
     <ul>
       <li>
+        <a href="https://www.goodreads.com/en/book/show/200128457-mathematica" target="_blank">Mathematica: A Secret World of Intuition and Curiosity</a> by David Bessis 
+      </li>
+      <li>
         <a href="https://www.goodreads.com/book/show/98250.Once_a_Runner" target="_blank">Once a Runner</a> by John L. Parker Jr. 
       </li>
       <li>
