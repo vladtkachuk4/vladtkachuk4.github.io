@@ -61,6 +61,9 @@ permalink: /life/
   <div class="book-list">
     <ul>
       <li>
+        <a href="https://www.goodreads.com/en/book/show/21031.When_Nietzsche_Wept" target="_blank">When Neitzsche Wept</a> by Irvin D. Yalom 
+      </li>
+      <li>
         <a href="https://www.goodreads.com/en/book/show/200128457-mathematica" target="_blank">Mathematica: A Secret World of Intuition and Curiosity</a> by David Bessis 
       </li>
       <li>
