@@ -16,11 +16,16 @@ permalink: /research/
   <h2>Publications</h2>
 
   <div class="paper">
+    <div class="paper-title">Gaussian-Width Bounds for Offline-to-Online Linear Bandits</div>
+    <div class="paper-authors">Kushagra Chandak, <u>Volodymyr Tkachuk</u>, Xiaoqi Tan, Csaba Szepesvári (Preprint)</div>
+    <div class="paper-link"><a href="https://arxiv.org/pdf/2610.12990">Paper</a></div>
+  </div>
+
+  <div class="paper">
     <div class="paper-title">Trajectory Data Suffices for Statistically Efficient Policy Evaluation in Fixed-Horizon Offline RL with Linear $q^\pi$ Realizability and Concentrability</div>
     <div class="paper-authors"><u>Volodymyr Tkachuk</u>, Csaba Szepesvári, Xiaoqi Tan (COLT 2026)</div>
     <div class="paper-link"><a href="https://arxiv.org/abs/2510.03494">Paper</a>
       | Talks: <a href="https://www.youtube.com/watch?v=2yKTpuEs3zY">High-level</a></div>
-
   </div>
 
   <div class="paper">
