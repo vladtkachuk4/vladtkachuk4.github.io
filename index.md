@@ -33,6 +33,6 @@ title: Home
   </div>
 </div>
 <h2>About</h2>
-<p>I am a third-year PhD student in Computing Science at the <a href="https://www.ualberta.ca/">University of Alberta</a>, working under the supervision of <a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a> and <a href="https://xiaoqitan.org/">Xiaoqi Tan</a>. I completed my master's degree at the University of Alberta, also under the supervision of Csaba Szepesvári. Before that, I obtained my bachelor's in Electrical Engineering from the University of Waterloo.</p> 
+<p>I am a fourth-year PhD student in Computing Science at the <a href="https://www.ualberta.ca/">University of Alberta</a>, working under the supervision of <a href="https://sites.ualberta.ca/~szepesva/">Csaba Szepesvári</a> and <a href="https://xiaoqitan.org/">Xiaoqi Tan</a>. I completed my master's degree at the University of Alberta, also under the supervision of Csaba Szepesvári. Before that, I obtained my bachelor's in Electrical Engineering from the University of Waterloo.</p> 
 <h2>Research Interests</h2>
-<p>I am currently interested in offline reinforcement learning theory.</p>
+<p>I am currently interested in linear bandits and offline reinforcement learning theory.</p>
